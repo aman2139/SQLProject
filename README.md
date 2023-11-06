@@ -6,4 +6,6 @@ The dataset includes a wide range of information about billionaires, such as the
 
 I embarked on our SQL-driven exploration of the Forbes database, I utilized a wide range of SQL queries to extract valuable information and draw compelling conclusions. My queries allowed us to delve into the diverse aspects of the richest people in the world, uncovering intriguing insights.
 
-By conducting SQL data exploration on the Forbes Billionaire List, this project provides a deeper understanding of the global wealth landscape and allows users to draw meaningful conclusions about wealth accumulation, economic trends, and the world's most influential individuals. Whether you are a data enthusiast, a researcher, or a business professional, this project offers valuable insights into the billionaire world and its ever-changing dynamics.
+By conducting SQL data exploration on the Forbes Billionaire List, this project provides a deeper understanding of the global wealth landscape and allows users to draw meaningful conclusions about wealth accumulation, economic trends, and the world's most influential individuals. Whether you are a data enthusiast, a researcher, or a business professional, this project offers valuable insights into the billionaire world and its ever-changing dynamics. 
+
+Please find below the code along with the results in the PDF file named: SQL PROJECT- ForbesBillionaires
