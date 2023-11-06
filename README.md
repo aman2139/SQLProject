@@ -8,6 +8,8 @@ I embarked on our SQL-driven exploration of the Forbes database, I utilized a wi
 
 By conducting SQL data exploration on the Forbes Billionaire List, this project provides a deeper understanding of the global wealth landscape and allows users to draw meaningful conclusions about wealth accumulation, economic trends, and the world's most influential individuals. Whether you are a data enthusiast, a researcher, or a business professional, this project offers valuable insights into the billionaire world and its ever-changing dynamics. 
 
-The raw dataset has been obtained from Kaggle, a renowned data source for data enthusiasts. (Link : https://www.kaggle.com/datasets/sujalluhar/billionaires-listed-in-forbes)
+The raw dataset has been obtained from Kaggle, a renowned data source for data enthusiasts. 
 
-Please find below the code along with the results in the PDF file named: SQL PROJECT- ForbesBillionaires
+(Link: https://www.kaggle.com/datasets/sujalluhar/billionaires-listed-in-forbes)
+
+Please find below the code along with the results in the PDF file named: **SQL PROJECT- ForbesBillionaires**
