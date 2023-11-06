@@ -13,3 +13,5 @@ The raw dataset has been obtained from Kaggle, a renowned data source for data e
 (Link: https://www.kaggle.com/datasets/sujalluhar/billionaires-listed-in-forbes)
 
 Please find below the code along with the results in the PDF file named: **SQL PROJECT- ForbesBillionaires**
+
+**Please Note: If you are unable to open the PDF, please download the whole repository as a ZIP file to access the PDF.**
