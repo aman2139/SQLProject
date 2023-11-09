@@ -1,4 +1,5 @@
 # Forbes Billionaire List: SQL Data Exploration
+**Disclaimer: This project is solely intended for academic purposes and does not aim to endorse or substantiate any argument whatsoever.**
 
 **Forbes Billionaire List: SQL Data Exploration** is a comprehensive SQL project that delves into the rich dataset provided by Forbes, one of the most reputable sources for tracking the world's wealthiest individuals. This project aims to uncover valuable insights from the Forbes Billionaire List using SQL queries and analysis.
 
@@ -17,3 +18,4 @@ The raw dataset has been obtained from Kaggle, a renowned data source for data e
 Please find below the code along with the results in the PDF file named: **SQL PROJECT- ForbesBillionaires**
 
 **Please Note: If you are unable to open the PDF, please download the whole repository as a ZIP file to access the PDF.**
+
